@@ -36,15 +36,17 @@ This Python script utilizes the Overpass API to find nearby fish, coral, and aqu
 ## Usage
 
 1. **Set the latitude, longitude, and search radius**:
-   Modify the following variables in the script:
-
+   
+   Example below is 10 miles surounding Portland, Oregon
+   
    ```python
+   # https://www.latlong.net/
    latitude = 45.512230
    longitude = -122.658722
    meters = 16000  # Set the desired search radius in meters
    ```
 
-2. **Run the script**:
+3. **Run the script**:
 
    Execute the script to find nearby fish stores and append the data to a text file called `stores.txt`.
 
@@ -52,7 +54,7 @@ This Python script utilizes the Overpass API to find nearby fish, coral, and aqu
    python nearby_fish_stores.py
    ```
 
-3. **Check the results**:
+4. **Check the results**:
 
    After running the script, the results will be appended to `stores.txt`. Each entry includes:
 
