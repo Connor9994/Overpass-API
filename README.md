@@ -1,4 +1,4 @@
-# Nearby Fish Stores Finder
+# Nearby Fish Store Finder
 
 ## Overview
 
