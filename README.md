@@ -1,4 +1,4 @@
-# Nearby Fish Store Finder
+# Nearby Fish (/etc) Store Finder
 
 ## Overview
 
