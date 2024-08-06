@@ -1,0 +1,122 @@
+Name: Puparazzi Dog Wash
+Phone: +1-503-259-8978
+Website: http://pup-a-razzi.com/
+Location: 45.4649392, -122.844942
+
+Name: Wet Spot Tropical Fish
+Phone: +1-503-287-3339
+Website: https://www.wetspottropicalfish.com/
+Location: 45.536421, -122.6185356
+
+Name: Mud Bay
+Phone: +1 503 282 1316
+Location: 45.5349843, -122.631872
+
+Name: Longs Seafood Market
+Location: 45.4978015, -122.568758
+
+Name: Family Pet
+Location: 45.5332301, -122.5396642
+
+Name: Petco
+Phone: +1 360-253-1222
+Website: https://stores.petco.com/wa/vancouver/pet-supplies-vancouver-wa-1233.html
+Location: 45.6189518, -122.5527708
+
+Name: Pet Pros
+Location: 45.6178539, -122.5358824
+
+Name: Acquatic Maintenance
+Phone: +1 503 282 0853
+Location: 45.5353059, -122.6197937
+
+Name: Sellwood Pet Supply
+Website: http://www.sellwoodpetsupply.com
+Location: 45.4623563, -122.6468073
+
+Name: Mud Bay
+Location: 45.6057314, -122.504634
+
+Name: Hannah - the pet society
+Location: 45.4471276, -122.776774
+
+Name: NoPo Paws
+Website: https://www.shopnopopaws.com/
+Location: 45.5626071, -122.6897551
+
+Name: The Pet Stop
+Location: 45.6170745, -122.5913211
+
+Name: Nature's Pet Market
+Location: 45.5175194, -122.8430858
+
+Name: Nature's Pet
+Phone: +1-971-220-1501
+Website: https://naturespetmarket.com/
+Location: 45.4897179, -122.4765663
+
+Name: Small Animal Supplies
+Location: 45.5192632, -122.5800654
+
+Name: Tré Bone
+Phone: +1-971-255-0722
+Website: https://www.trebonepetsupply.com/
+Location: 45.5894185, -122.7526494
+
+Name: The Tropical Hut
+Website: http://thetropicalhut.com/
+Location: 45.5046819, -122.6202189
+
+Name: 82 Seafood Co
+Location: 45.5047646, -122.5739419
+
+Name: Meat for Cats and Dogs
+Website: http://meatforcatsanddogs.com/
+Location: 45.5227312, -122.642704
+
+Name: Pet Barn
+Website: https://www.petbarnpdx.com/
+Location: 45.5260118, -122.807541
+
+Name: River City Fly Shop
+Website: http://rivercityflyshop.com
+Location: 45.4466622, -122.7940863
+
+Name: Unleashed
+Website: https://stores.petco.com/or/portland/pet-supplies-portland-or-5203.html
+Location: 45.5237172, -122.6988233
+
+Name: Healthy Pets Northwest
+Phone: +1-503-236-8036
+Website: https://healthypetsnw.com/
+Location: 45.5120047, -122.6478012
+
+Name: Wild
+Location: 45.54835, -122.6412722
+
+Name: Hip Hound
+Location: 45.527219, -122.69833
+
+Name: Holistic Pet Center
+Location: 45.4098982, -122.5690259
+
+Name: Mud Bay
+Location: 45.5262549, -122.687712
+
+Name: Creature Comforts Pet Center
+Location: 45.4143234, -122.6298048
+
+Name: For Paws PDX
+Phone: +1-503-235-3204
+Website: http://forpawspdx.com
+Location: 45.5046842, -122.6307987
+
+Name: Three Paws
+Phone: +1-503-719-5204
+Website: https://threepawspetsupply.com/
+Location: 45.5003633, -122.6719733
+
+Name: Happy Tails Pet Center
+Website: https://www.happytailspetcenter.com/
+Location: 45.4474444, -122.6174372
+
