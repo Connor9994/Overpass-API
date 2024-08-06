@@ -46,6 +46,33 @@ This Python script utilizes the Overpass API to find nearby fish, coral, and aqu
    meters = 16000  # Set the desired search radius in meters
    ```
 
+   Query for this script is:
+   
+   ```
+    [out:json];
+    (
+      node[shop=pet](around:{meters}, {latitude}, {longitude});
+      node[shop=aquarium](around:{meters}, {latitude}, {longitude});
+      node[shop~fish](around:{meters}, {latitude}, {longitude}); // Finds any shop w/ "fish" anywhere in the description
+      node[shop=seafood](around:{meters}, {latitude}, {longitude});
+      node[product~fish](around:{meters}, {latitude}, {longitude});
+    );
+    out body;
+   ```
+
+   And can be modified according to/with these sources
+
+   [Query Builder/Tester](https://overpass-turbo.eu/)
+
+   [Search Parameters/Syntax](https://wiki.openstreetmap.org/wiki/Overpass_turbo/Wizard)
+
+   [Types of Shops](https://wiki.openstreetmap.org/wiki/Map_features#Shop) (Not an Exhaustive List, Some Stores use Fish/Fishmonger instead of "Fishing" for instance)
+
+   [ChatGPT, write me an Overpass API Query to find my local Gamestops](https://platform.openai.com/playground/p/4qgIBvFcHodXtUrwBqsPky72?model=undefined&mode=chat)
+   
+   <img src="https://github.com/user-attachments/assets/36509630-ef00-4efd-aa8c-cf105a715267" width="500" height="300">
+
+
 3. **Run the script**:
 
    Execute the script to find nearby fish stores and append the data to a text file called `stores.txt`.
