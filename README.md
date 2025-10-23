@@ -1,5 +1,7 @@
 # Nearby Fish (/etc) Store Finder
 
+![GitHub stars](https://img.shields.io/github/stars/Connor9994/Overpass-API?style=social) ![GitHub forks](https://img.shields.io/github/forks/Connor9994/Overpass-API?style=social) ![GitHub issues](https://img.shields.io/github/issues/Connor9994/Overpass-API) 
+
 ## Overview
 
 This Python script utilizes the Overpass API to find nearby fish, coral, and aquarium stores based on their geographical coordinates. The script allows you to specify a radius in meters to search for various types of shops related to fish.
